@@ -11,14 +11,14 @@ products:
   owner: EMAIL@EXAMPLE.COM
   description: creates a sample dynamodb table
 accounts:
-- identifier: Sample AWS Account
-  number: 123456789012
-- identifier: Another
-  number: 123456789013
+- identifier: Test
+  number: 956152378206
+# - identifier: Another
+#   number: 123456789013
 tags:
 - Key: keynam1
   Value: value1
 - Key: keyname2
   Value: value2
 principals:
-- role/Admin
+- role/297011389999-p7xaccount-administrator
